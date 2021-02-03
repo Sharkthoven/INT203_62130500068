@@ -4,7 +4,10 @@ const app = {
             firstname: 'Phichitphol',
             lastname: 'Bunyakanok',
             image: './img/Dark Exile.png',
-            career: 'Sophomore at SIT, KMUTT'
+            career: 'Sophomore at SIT, KMUTT',
+            follower_count: '76',
+            post_count: '22',
+            rating: '8.6'
         }
     },
     created() {
