@@ -10,7 +10,7 @@ This markdown will contain link to all of my work since work 1 to latest work.
 ## Accessing a lock module
 ![Special folder](./images/special_folder.png)       
 There are special folder (as u can see in this repo), If you try to open in CLI, it seems like you can access this folder normally but no, you can't. 
-![No file](.images/no_file.png)
+![no_file](./images/no_file.png)
 
 
 
