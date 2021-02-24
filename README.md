@@ -9,4 +9,11 @@ This markdown will contain link to all of my work since work 1 to latest work.
 
 ## Accessing a lock module
 ![Special folder](./images/special_folder.png)       
-There are special folder (as u can see in this repo) 
+There are special folder (as u can see in this repo), its seem like you can access this folder normally(like click to open) but no, you can't. To open this you need to access by 
+cloning in special way :)
+
+```
+git clone --recurse-submodules https://github.com/Sharkthoven/INT203_62130500068.git
+```
+And there you go, now you get my source code :)
+(Warning if you don't follow this instruction all submodule will be just a blank folder...)
