@@ -8,5 +8,5 @@ This markdown will contain link to all of my work since work 1 to latest work.
 * [Work 5: Photo Gallery II V.2 (Using components to your work)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_5)
 
 ## Accessing a lock module
+![Special folder](./images/special_folder.png)       
 There are special folder (as u can see in this repo) 
-![Special folder](./images/special_folder.png)
