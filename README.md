@@ -9,18 +9,26 @@ This markdown will contain link to all of my work since work 1 to latest work.
 
 ## Accessing a lock module
 ![Special folder](./images/special_folder.png)       
-There are special folder (as u can see in this repo), If you try to open in CLI, it seems like you can access this folder normally but no, you can't. 
+There are special folder (as u can see in this repo) it's call submodule, If you try to open in CLI, it seems like you can access this folder normally but no, you can't. 
 ![no_file](./images/no_file.png)
-
-
-
-
 To open this you need to access by cloning in special way :)
-
-
 ```
 git clone --recurse-submodules https://github.com/Sharkthoven/INT203_62130500068.git
 ```
-
+After using this commmand, GitHub will convert submodule into source code.
+![file_found](./images/file_found.png)
 And there you go, now you get my source code :)
 
+### Argh ! I forgot to follow your instruction...
+No problem, you can just use this command in repo folder
+```
+git submodule init
+```
+and then using 
+```
+git submodule update
+```
+you will get something like this...
+![alternative](./images/alternative.png)
+
+**YEAHHH!! You got my source code now :)**
