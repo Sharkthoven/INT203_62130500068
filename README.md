@@ -6,6 +6,7 @@ This markdown will contain link to all of my work since work 1 to latest work.
 * [Work 3: Photo Gallery I (Showing image and like button)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_3)
 * [Work 4: Photo Gallery II (Expandable image and search bar)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_4)
 * [Work 5: Photo Gallery II V.2 (Using components to your work)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_5)
+* [Work 6: Profile Form (Form Validation w/ Validate.js)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_6)
 
 ## Accessing a lock module
 ![Special folder](./images/special_folder.png)       
