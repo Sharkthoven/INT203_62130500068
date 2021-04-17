@@ -34,3 +34,8 @@ you will get something like this...
 ![alternative](./images/alternative.png)
 
 **YEAHHH!! You got my source code now :)**
+
+### How to add a submodule
+```
+git submodule add [-f] <Repo Link> [Path]
+```
