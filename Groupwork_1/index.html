@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Basic Vue Js - HelloWorld App</title>
+
+  <!--Using Bulma.io icon-->
+  <script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
+
+  <!-- https://google.github.io/material-design-icons/#icon-font-for-the-web -->
+  <!-- Using via Google Web Fonts -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+  <!-- https://tailwindcss.com/docs/installation -->
+  <!-- Using Tailwind via CDN -->
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
+
+  <!-- https://v3.vuejs.org/guide/installation.html#release-notes -->
+  <!-- Vue CDN -->
+  <script src="https://unpkg.com/vue@next"></script>
+
+</head>
+
+<body>
+  <nav class="bg-white max-h-96 shadow-xl">
+    <div class="max-w-7xl mx-auto px-2">
+      <div class="relative flex items-center justify-between h-16">
+        <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
+
+          <div class="flex-shrink-0 flex items-center">
+            <img class="block lg:hidden h-8 w-auto" src="../img/bulma-logo.jpg">
+            <img class="hidden lg:block h-8 w-auto" src="../img/bulma-logo.jpg">
+          </div>
+
+          <div class="hidden sm:block sm:ml-6">
+            <div class="flex space-x-4">
+              <a href="#"
+                class="bg-white text-black hover:text-green-400 hover:bg-green-100 px-3 py-2 rounded-md text-sm font-medium">
+                <i class="fas fa-book text-green-400"></i>
+                &nbsp;Documentation</a>
+              <a href="#"
+                class="text-black hover:text-green-700 hover:bg-green-400 px-3 py-2 rounded-md text-sm font-medium">
+                <i class="fas fa-play-circle text-green-700"></i>
+                &nbsp;Video</a>
+              <a href="#"
+                class="text-black hover:bg-yellow-100 hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium">
+                <i class="fas fa-star text-yellow-400"></i>
+                &nbsp;Expo</a>
+              <a href="#"
+                class="text-black hover:bg-pink-100 hover:text-pink-600 px-3 py-2 rounded-md text-sm font-medium">
+                <i class="fas fa-heart text-pink-600"></i>
+                &nbsp;Love</a>
+              <a href="#"
+                class="text-black hover:bg-red-100 hover:text-red-600 px-3 py-2 rounded-md text-sm font-medium">
+                <i class="fab fa-patreon text-red-600"></i>
+                &nbsp;Backer</a>
+              <a href="#" class="hover:bg-blue-100 px-3 py-2 rounded-md">
+                <i class="fas fa-ellipsis-h text-blue-600"></i>
+              </a>
+              <a href="#" class="hover:bg-gray-100 px-3 py-2 rounded-md">
+                <i class="fab fa-lg fa-github-alt"></i>
+              </a>
+              <a href="#" class="hover:bg-blue-100 px-3 py-2 rounded-md">
+                <i class="fab fa-lg fa-twitter text-blue-400"></i>
+              </a>
+              <a href="#" class="text-pink-600 bg-pink-100 hover:bg-pink-100 px-3 py-2 rounded-md">
+                <i class="fas fa-thumbs-up text-pink-600"></i>
+                &nbsp;Sponsor
+              </a>
+
+              <input type="text" class="bg-gray-100 border-gray-500 rounded-full px-3 py-2" size="25"
+                placeholder="Search the docs">
+              </input>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <nav class="bg-gray-100 max-h-80 text-3xl font-medium"> 
+    <div class="text-blue-600 py-40 pl-12">
+      <i class="fas fa-ellipsis-h"></i>
+      More About Bulma
+    </div>
+  </nav>
+
+  <nav class="bg-white max-h-80 text-2xl"> 
+    <div class="text-black py-28 pl-12">
+      <i class="fas fa-plug"></i>
+      &ensp;&nbsp;Bulma Extentions<br/>
+      <div class="text-gray-500 text-lg pl-12">Side projects to enhance Bulma</div>
+      
+    </div>
+  </nav>
+
+
+  <!-- my main.js -->
+  <script src="./main.js"></script>
+</body>
+
+</html>
