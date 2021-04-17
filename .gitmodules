@@ -13,7 +13,3 @@
 [submodule "Groupwork_Mockup"]
 	path = INT203_62130500068_Groupwork_SPA
 	url = https://github.com/Sharkthoven/INT203_62130500068_Groupwork_SPA.git
-[submodule "Groupwork_SPA"]
-	path = INT203_62130500068_Groupwork_SPA
-	url = https://github.com/Sharkthoven/INT203_62130500068_Groupwork_SPA.git
-	branch = main
