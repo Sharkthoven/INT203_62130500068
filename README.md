@@ -7,6 +7,7 @@ This markdown will contain link to all of my work since work 1 to latest work.
 * [Work 4: Photo Gallery II (Expandable image and search bar)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_4)
 * [Work 5: Photo Gallery II V.2 (Using components to your work)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_5)
 * [Work 6: Profile Form (Form Validation w/ Validate.js)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_6)
+* [Final Project: VUE.js CRUD with RestAPI (Using MongoDB Atlas & Express as backend w/ Axios & Vuex for API connector)](https://github.com/Sharkthoven/INT203_62130500068_Groupwork_SPA.git)
 
 ## Accessing a lock module
 ![Special folder](./images/special_folder.png)       
