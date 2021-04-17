@@ -11,5 +11,5 @@
 	path = Groupwork_6
 	url = https://github.com/Sharkthoven/INT203_62130500068_Groupwork_6.git
 [submodule "Groupwork_Mockup"]
-	path = INT203_62130500068_Groupwork_SPA
+	path = Groupwork_Mockup
 	url = https://github.com/Sharkthoven/INT203_62130500068_Groupwork_SPA.git
